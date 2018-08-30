@@ -1,1 +1,1 @@
-## 2048 in console
+## 2048 Game in terminal
