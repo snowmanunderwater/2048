@@ -1,10 +1,11 @@
-## 2048 Game in terminal
+## 2048 Game CLI
+## Feel free to play thic piece of shit
 
 ### W, A, S, D to move.
 
 ### Press R to reset the board.
 
-### Press any key to exit.
+### Press any other key to exit.
 
 ![Image of 2048](https://raw.githubusercontent.com/snowmanunderwater/2048-CLI/master/pictures/Screenshot_2018-08-30_18-28-17.png)
 
