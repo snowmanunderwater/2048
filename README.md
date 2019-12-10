@@ -1,5 +1,4 @@
 ## 2048 Game CLI
-## Feel free to play this piece of shit
 
 ### W, A, S, D to move.
 
